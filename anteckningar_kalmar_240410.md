@@ -30,6 +30,7 @@ https://gitlab.lnu.se/1dv027
 
 Om vi vill har någonslaggs uppdelning för terminer och årgångar. Då kan vi nog använda tags för att markera när en ny termin/årgång börjar. I testerna borde man kunna koppla testerna till en specifik tag eller senaste commits på något sätt. Om vi lyckas med det får vi automatisk uppdelning om en student vill göra klart förra årets version.
 
+Ska vi behålla dbwebb designen på webbsidan eller gå över till BTH profilen (kommunikation vill väldigt gärna det).
 
 ## Emil
 
