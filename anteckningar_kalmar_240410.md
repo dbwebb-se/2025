@@ -1,6 +1,6 @@
 ## Andreas
 
-Anteckninar från vårt möte med LNU igår.
+### Anteckninar från vårt möte med LNU igår.
 
 När LNU blickar frammåt och funderar på hur de vill ändra sitt program och få in nya saker då kollar de mycker på web3, krypto, smart kontrakt och AI. Lite annat fokus än vad vi har. Det känns som vi håller oss till det klassiska medan de är mer wild and crazy.
 
@@ -25,6 +25,10 @@ https://gitlab.lnu.se/1dv025
 https://gitlab.lnu.se/1dv026
 https://gitlab.lnu.se/1dv027
 
+
+### Tankar
+
+Om vi vill har någonslaggs uppdelning för terminer och årgångar. Då kan vi nog använda tags för att markera när en ny termin/årgång börjar. I testerna borde man kunna koppla testerna till en specifik tag eller senaste commits på något sätt. Om vi lyckas med det får vi automatisk uppdelning om en student vill göra klart förra årets version.
 
 
 ## Emil
