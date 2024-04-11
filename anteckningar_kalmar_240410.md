@@ -47,7 +47,7 @@ Don't
 
 
 
-### GitLab
+### GitLab/GitHub
 
 Se Andreas ovan.
 
@@ -60,6 +60,8 @@ Fick lite ideer:
 * Ändra saker under kursens gång. Hög prio!
 * Webhooks för att uppdatera studenternas repon?
 * Fundera över hur "commits/tags/pull requests" till inlämningar.
+
+https://classroom.github.com
 
 
 
